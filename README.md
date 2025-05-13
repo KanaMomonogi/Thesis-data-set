@@ -1,4 +1,4 @@
 # Thesis-data-set
-毕业论文自建数据集，请使用科学上网工具前往Google云盘https://drive.google.com/file/d/12SnZCyAiQAnVhI3aOoWdqECdBgv2xK_x/view?usp=drive_link下载数据集压缩包self-built dataset.rar。最外层rar文件解压密码为2025UESTC。内部文件请使用Bandizip软件进行解压，操作提示见第一层压缩包内txt文件的内容说明。
+毕业论文自建数据集，请使用科学上网工具前往Google云盘https://drive.google.com/file/d/12SnZCyAiQAnVhI3aOoWdqECdBgv2xK_x/view?usp=drive_link 下载数据集压缩包self-built dataset.rar。最外层rar文件解压密码为2025UESTC。内部文件请使用Bandizip软件进行解压，操作提示见第一层压缩包内txt文件的内容说明。
 
 自建数据集在初始数据收集阶段共包含4057道初中平面几何题目。经过数据扩充后，题目总量增至32456道。其中，24342 道题目仅包含文本数据，不修改对应的几何图形，主要用于大模型微调部分；其余题目文本与几何图形信息一一对应，可用于大模型微调及图Transformer预测器模块的训练环节。
